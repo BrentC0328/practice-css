@@ -1,7 +1,8 @@
 p {
     text-align:center; 
     color:blue;
-    font-size: larger;
+    font-size: x-large;
+    text-decoration: underline ;
 }
 
 body {background-color: black;
@@ -10,4 +11,5 @@ background-image: url(https://img.freepik.com/free-photo/solid-concrete-wall-tex
 
 h1 {color: red;
 text-decoration: line-through;
-font-size: small;}
+font-size: small;
+text-align: center;}
