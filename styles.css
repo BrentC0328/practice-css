@@ -6,10 +6,17 @@ p {
 }
 
 body {background-color: black;
-background-image: url(https://img.freepik.com/free-photo/solid-concrete-wall-textured-backdrop_53876-129493.jpg?w=900&t=st=1655420548~exp=1655421148~hmac=7c94c27595e32caee791f73f3d5bb91b5407d433ca5dcf794a00a407516682ea);
+background-image: url(https://img.freepik.com/free-vector/modern-texture-dark-abstract-pattern-background_373171-68.jpg?w=1060);
 }
 
 h1 {color: red;
 text-decoration: line-through;
 font-size: small;
 text-align: center;}
+
+span {font-style: italic;}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
